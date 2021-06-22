@@ -110,7 +110,7 @@ describe('WelcomeComponent', () => {
   });
 });
 
-
+// 2021/06/22 - banner, welcome 테스트 확인 
 /*
 Copyright Google LLC. All Rights Reserved.
 Use of this source code is governed by an MIT-style license that
